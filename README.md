@@ -13,26 +13,25 @@
 <param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
-<param title="Jane Barker" 
-   eid="Q3161849" 
-   aliases="Barker">`
+<param ve-entity eid="Q84" title="London">
+<param ve-entity title="Jane Barker" eid="Q3161849" aliases="Barker">
 
 
 # Sample visual essay
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference. We walked with Dr. Adams into the master's garden, and into the common room. JOHNSON. (after a reverie of meditation,) 'Ay! Here I used to play at draughts with Phil. Jones and Fludyer. Jones loved beer, and did not get very forward in the church. Fludyer turned out a scoundrel, a Whig, and said he was ashamed of having been bred at Oxford. He had a living at Putney, and got under the eye of some retainers to the court at that time, and so became a violent Whig: but he had been a scoundrel all along to be sure.'
 <param ve-image 
        manifest="https://manifests.collections.yale.edu/yuag/obj/103260">
 
-# Basic usage
 
 ## My images
 
-The subject of this essay is Jane Barker's *Patchwork Screen for the Ladies* (1723). Gwyn was a fine lively rattling fellow. Dr. Johnson kept him in subjection, but with a kindly authority. The spirit of the artist, however, rose against what he thought a Gothick attack, and he made a brisk defence. 'What, Sir, will you allow no value to beauty in architecture or in statuary? Why should we allow it then in writing? Why do you take the trouble to give us so many fine allusions, and bright images, and elegant phrases? You might convey all your instruction without these ornaments.' Johnson smiled with complacency; but said, 'Why, Sir, all these ornaments are useful, because they obtain an easier reception for truth; but a building is not at all more convenient for being decorated with superfluous carved work.'
+The subject of this essay is *Patchwork Screen for the Ladies* (1723) by Jane Barker. London, England. Gwyn was a fine lively rattling fellow. Dr. Johnson kept him in subjection, but with a kindly authority. The spirit of the artist, however, rose against what he thought a Gothick attack, and he made a brisk defence. 'What, Sir, will you allow no value to beauty in architecture or in statuary? Why should we allow it then in writing? Why do you take the trouble to give us so many fine allusions, and bright images, and elegant phrases? You might convey all your instruction without these ornaments.' Johnson smiled with complacency; but said, 'Why, Sir, all these ornaments are useful, because they obtain an easier reception for truth; but a building is not at all more convenient for being decorated with superfluous carved work.'
 <param ve-image manifest="https://media.getty.edu/iiif/manifest/62a064cc-3fcc-49c3-8c7b-b460474e4c0c">
 
 
 ## Music
+
 Gwyn was a fine lively rattling fellow. Dr. Johnson kept him in subjection, but with a kindly authority. The spirit of the artist, however, rose against what he thought a Gothick attack, and he made a brisk defence. 'What, Sir, will you allow no value to beauty in architecture or in statuary? Why should we allow it then in writing? Why do you take the trouble to give us so many fine allusions, and bright images, and elegant phrases? You might convey all your instruction without these ornaments.' Johnson smiled with complacency; but said, 'Why, Sir, all these ornaments are useful, because they obtain an easier reception for truth; but a building is not at all more convenient for being Gwyn was a fine lively rattling fellow. Dr. Johnson kept him in subjection, but with a kindly authority. The spirit of the artist, however, rose against what he thought a Gothick attack, and he made a brisk defence. 'What, Sir, will you allow no value to beauty in architecture or in statuary? Why should we allow it then in writing? Why do you take the trouble to give us so many fine allusions, and bright images, and elegant phrases? You might convey all your instruction without these ornaments.' Johnson smiled with complacency; but said, 'Why, Sir, all these ornaments are useful, because they obtain an easier reception for truth; but a building is not at all more convenient for bein
 <param ve-image manifest="https://www.loc.gov/item/2009536458/manifest.json">
 
