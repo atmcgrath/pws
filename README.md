@@ -13,6 +13,10 @@
 <param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
+<param title="Jane Barker" 
+   eid="Q3161849" 
+   aliases="Barker">`
+
 
 # Sample visual essay
 
@@ -24,7 +28,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## My images
 
-Gwyn was a fine lively rattling fellow. Dr. Johnson kept him in subjection, but with a kindly authority. The spirit of the artist, however, rose against what he thought a Gothick attack, and he made a brisk defence. 'What, Sir, will you allow no value to beauty in architecture or in statuary? Why should we allow it then in writing? Why do you take the trouble to give us so many fine allusions, and bright images, and elegant phrases? You might convey all your instruction without these ornaments.' Johnson smiled with complacency; but said, 'Why, Sir, all these ornaments are useful, because they obtain an easier reception for truth; but a building is not at all more convenient for being decorated with superfluous carved work.'
+The subject of this essay is Jane Barker's *Patchwork Screen for the Ladies* (1723). Gwyn was a fine lively rattling fellow. Dr. Johnson kept him in subjection, but with a kindly authority. The spirit of the artist, however, rose against what he thought a Gothick attack, and he made a brisk defence. 'What, Sir, will you allow no value to beauty in architecture or in statuary? Why should we allow it then in writing? Why do you take the trouble to give us so many fine allusions, and bright images, and elegant phrases? You might convey all your instruction without these ornaments.' Johnson smiled with complacency; but said, 'Why, Sir, all these ornaments are useful, because they obtain an easier reception for truth; but a building is not at all more convenient for being decorated with superfluous carved work.'
 <param ve-image manifest="https://media.getty.edu/iiif/manifest/62a064cc-3fcc-49c3-8c7b-b460474e4c0c">
 
 
